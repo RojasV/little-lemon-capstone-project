@@ -44,7 +44,7 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
         </Column>
       </Content>
       <Copyright>
-        <span>Developed by <a href="https://www.leonardojacomussi.com/" target="_blank" rel="external"> Leonardo Jacomussi </a></span>
+        <span>Developed by <a href="" target="_blank" rel="external"> Vladimir Rojas </a></span>
         <p>© 2023 Little Lemon. All rights reserved.</p>
       </Copyright>
     </Container>
